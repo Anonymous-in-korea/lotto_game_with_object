@@ -37,7 +37,7 @@ public class lotto_info { // lotto 한줄마다 결과값+자기번호 info 총�
 	         System.out.print(match_num[k]+"\t");   
 	         }
 	         
-	         }else {System.out.print("없습니다.\n");}
+	         }else {System.out.print("없습니다.\t");}
 	         
 	         //보너스 당첨번호 출력
 	         if(bonus_check==1) {
